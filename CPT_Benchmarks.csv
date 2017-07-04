@@ -1,0 +1,73 @@
+Channel,Region,CPT,,,,,,,,,
+Radio,Midlands,1.277142857,,,,,,,,,
+Radio,North West,1.190512821,,,,Midlands,Midlands,,,Midlands,Midlands
+Radio,Wales & West,1.168518519,,,,North West,North West,,,North West,North West
+Radio,Sourthern,1.179,,,,Wales & West,HTV Wales,,,Wales & West,HTV Wales
+Radio,Yorkshire,1.151034483,,,,South & South East,Meridian (exc Channel Islands),,,Sourthern,#N/A
+Radio,London,1.475555556,,,,Yorkshire,Yorkshire,,,Yorkshire,Yorkshire
+Radio,National,1.276791045,,,,London,London,,,London,London
+Radio,East of England,1.248888889,,,,National,National,,,National,National
+Radio,Central Scotland,1.215172414,,,,East of England,East Of England,,,East of England,East Of England
+Radio,North East,1.245,,,,Scotland,Border,,,Central Scotland,#N/A
+Radio,South West,1.241724138,,,,North East,North East,,,North East,North East
+Radio,Ulster,1.272222222,,,,Scotland,Central Scotland,,,South West,South West
+Cinema,Midlands,1,,,,South West,South West,,,Ulster,Ulster
+Cinema,North West,1,,,,Ulster,Ulster,,,Southern,#N/A
+Cinema,Wales & West,1,,,,Wales & West,HTV West,,,,
+Cinema,Southern,1,,,,Wales & West,National,,,,
+Cinema,Yorkshire,1,,,,Scotland,Northern Scotland,,,,
+Cinema,London,1,,,,Scotland,National,,,,
+Cinema,National,1,,,,,,,,,
+Cinema,East of England,1,,,,,,,,,
+Cinema,Central Scotland,1,,,,,,,,,
+Cinema,North East,1,,,,,,,,,
+Cinema,South West,1,,,,,,,,,
+Cinema,Ulster,1,,,,,,,,,
+Direct Mail,Midlands,1,,,,,,,,,
+Direct Mail,North West,1,,,,,,,,,
+Direct Mail,Wales & West,1,,,,,,,,,
+Direct Mail,Southern,1,,,,,,,,,
+Direct Mail,Yorkshire,1,,,,,,,,,
+Direct Mail,London,1,,,,,,,,,
+Direct Mail,National,1,,,,,,,,,
+Direct Mail,East of England,1,,,,,,,,,
+Direct Mail,Central Scotland,1,,,,,,,,,
+Direct Mail,North East,1,,,,,,,,,
+Direct Mail,South West,1,,,,,,,,,
+Direct Mail,Ulster,1,,,,,,,,,
+Press,Midlands,1,,,,,,,,,
+Press,North West,1,,,,,,,,,
+Press,Wales & West,1,,,,,,,,,
+Press,Southern,1,,,,,,,,,
+Press,Yorkshire,1,,,,,,,,,
+Press,London,1,,,,,,,,,
+Press,National,1,,,,,,,,,
+Press,East of England,1,,,,,,,,,
+Press,Central Scotland,1,,,,,,,,,
+Press,North East,1,,,,,,,,,
+Press,South West,1,,,,,,,,,
+Press,Ulster,1,,,,,,,,,
+TV,Midlands,1,,,,,,,,,
+TV,North West,1,,,,,,,,,
+TV,Wales & West,1,,,,,,,,,
+TV,Southern,1,,,,,,,,,
+TV,Yorkshire,1,,,,,,,,,
+TV,London,1,,,,,,,,,
+TV,National,1,,,,,,,,,
+TV,East of England,1,,,,,,,,,
+TV,Central Scotland,1,,,,,,,,,
+TV,North East,1,,,,,,,,,
+TV,South West,1,,,,,,,,,
+TV,Ulster,1,,,,,,,,,
+Outdoor,Midlands,1,,,,,,,,,
+Outdoor,North West,1,,,,,,,,,
+Outdoor,Wales & West,1,,,,,,,,,
+Outdoor,Southern,1,,,,,,,,,
+Outdoor,Yorkshire,1,,,,,,,,,
+Outdoor,London,1,,,,,,,,,
+Outdoor,National,1,,,,,,,,,
+Outdoor,East of England,1,,,,,,,,,
+Outdoor,Central Scotland,1,,,,,,,,,
+Outdoor,North East,1,,,,,,,,,
+Outdoor,South West,1,,,,,,,,,
+Outdoor,Ulster,1,,,,,,,,,
